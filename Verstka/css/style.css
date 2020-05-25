@@ -1,0 +1,44 @@
+body{
+    width: 1280px;
+    height: 720px;
+    background-image: url(../img/BG.png);
+}
+
+.logo{
+    width: 170px;
+    height: 123px;
+    top: 20px;
+    padding-right: 50px;
+}
+.missions{
+    position: absolute;
+   top: 44px;
+    left: 576px;
+}
+.gallery{
+    position: absolute;
+    top: 44px;
+    left: 725px;
+}
+.tv{
+    position: absolute;
+    top: 44px;
+    left: 850px;
+}
+.search{
+    position: absolute;
+    top: 36px;
+    left: 1050px;
+}
+.text{
+   
+   padding-top: 230px;
+   padding-left: 145px;
+   
+}
+.btn{
+   
+    padding-top: 150px;
+   padding-left: 430px;
+
+}
